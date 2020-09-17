@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "200037fb1660fb6af087ca317abc0d82",
+    "revision": "1d50df6ea433d1ff2fd9a3a92b6f32d0",
     "url": "/build-a-better-boyfriend/index.html"
   },
   {
-    "revision": "76ab34cd30370ff1edae",
+    "revision": "8aadf8e4c1f808b4796b",
     "url": "/build-a-better-boyfriend/static/css/main.bc100380.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/build-a-better-boyfriend/static/js/2.0f98c957.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "76ab34cd30370ff1edae",
-    "url": "/build-a-better-boyfriend/static/js/main.c7d8db4e.chunk.js"
+    "revision": "8aadf8e4c1f808b4796b",
+    "url": "/build-a-better-boyfriend/static/js/main.d8c86b7a.chunk.js"
   },
   {
     "revision": "b93a315e7091e2524554",

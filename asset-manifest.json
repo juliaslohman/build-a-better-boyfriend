@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/build-a-better-boyfriend/static/css/main.bc100380.chunk.css",
-    "main.js": "/build-a-better-boyfriend/static/js/main.c7d8db4e.chunk.js",
-    "main.js.map": "/build-a-better-boyfriend/static/js/main.c7d8db4e.chunk.js.map",
+    "main.js": "/build-a-better-boyfriend/static/js/main.d8c86b7a.chunk.js",
+    "main.js.map": "/build-a-better-boyfriend/static/js/main.d8c86b7a.chunk.js.map",
     "runtime-main.js": "/build-a-better-boyfriend/static/js/runtime-main.5f6f19ff.js",
     "runtime-main.js.map": "/build-a-better-boyfriend/static/js/runtime-main.5f6f19ff.js.map",
     "static/js/2.0f98c957.chunk.js": "/build-a-better-boyfriend/static/js/2.0f98c957.chunk.js",
     "static/js/2.0f98c957.chunk.js.map": "/build-a-better-boyfriend/static/js/2.0f98c957.chunk.js.map",
     "index.html": "/build-a-better-boyfriend/index.html",
-    "precache-manifest.95bf93edfab816ba76ced3d8a5600594.js": "/build-a-better-boyfriend/precache-manifest.95bf93edfab816ba76ced3d8a5600594.js",
+    "precache-manifest.312cf8c0ba7febf75d3f3525f6f8c3bd.js": "/build-a-better-boyfriend/precache-manifest.312cf8c0ba7febf75d3f3525f6f8c3bd.js",
     "service-worker.js": "/build-a-better-boyfriend/service-worker.js",
     "static/css/main.bc100380.chunk.css.map": "/build-a-better-boyfriend/static/css/main.bc100380.chunk.css.map",
     "static/js/2.0f98c957.chunk.js.LICENSE.txt": "/build-a-better-boyfriend/static/js/2.0f98c957.chunk.js.LICENSE.txt",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.5f6f19ff.js",
     "static/js/2.0f98c957.chunk.js",
     "static/css/main.bc100380.chunk.css",
-    "static/js/main.c7d8db4e.chunk.js"
+    "static/js/main.d8c86b7a.chunk.js"
   ]
 }
