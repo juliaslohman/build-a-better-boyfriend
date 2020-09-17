@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/build-a-better-boyfriend/static/css/main.bc100380.chunk.css",
+    "main.js": "/build-a-better-boyfriend/static/js/main.e6db18ec.chunk.js",
+    "main.js.map": "/build-a-better-boyfriend/static/js/main.e6db18ec.chunk.js.map",
+    "runtime-main.js": "/build-a-better-boyfriend/static/js/runtime-main.5f6f19ff.js",
+    "runtime-main.js.map": "/build-a-better-boyfriend/static/js/runtime-main.5f6f19ff.js.map",
+    "static/js/2.87933dd5.chunk.js": "/build-a-better-boyfriend/static/js/2.87933dd5.chunk.js",
+    "static/js/2.87933dd5.chunk.js.map": "/build-a-better-boyfriend/static/js/2.87933dd5.chunk.js.map",
+    "index.html": "/build-a-better-boyfriend/index.html",
+    "precache-manifest.7f3a39a8caaf983225f3e7ed81a0064d.js": "/build-a-better-boyfriend/precache-manifest.7f3a39a8caaf983225f3e7ed81a0064d.js",
+    "service-worker.js": "/build-a-better-boyfriend/service-worker.js",
+    "static/css/main.bc100380.chunk.css.map": "/build-a-better-boyfriend/static/css/main.bc100380.chunk.css.map",
+    "static/js/2.87933dd5.chunk.js.LICENSE.txt": "/build-a-better-boyfriend/static/js/2.87933dd5.chunk.js.LICENSE.txt",
+    "static/media/50scoupleWIDE.jpg": "/build-a-better-boyfriend/static/media/50scoupleWIDE.37f97561.jpg",
+    "static/media/face1.png": "/build-a-better-boyfriend/static/media/face1.1c5cc3d1.png",
+    "static/media/face2.png": "/build-a-better-boyfriend/static/media/face2.feaec3fc.png",
+    "static/media/face3.png": "/build-a-better-boyfriend/static/media/face3.1f4f193f.png",
+    "static/media/face4.png": "/build-a-better-boyfriend/static/media/face4.9f64deaf.png",
+    "static/media/face5.png": "/build-a-better-boyfriend/static/media/face5.e3f59f44.png",
+    "static/media/face6.png": "/build-a-better-boyfriend/static/media/face6.756b30ec.png",
+    "static/media/face7.png": "/build-a-better-boyfriend/static/media/face7.57f0876d.png",
+    "static/media/face8.png": "/build-a-better-boyfriend/static/media/face8.50dceecd.png",
+    "static/media/hermeme.jpeg": "/build-a-better-boyfriend/static/media/hermeme.eb81aea2.jpeg",
+    "static/media/retrofuturistrobotwoman.jpg": "/build-a-better-boyfriend/static/media/retrofuturistrobotwoman.8a7ae16a.jpg",
+    "static/media/womanandrobot2.jpg": "/build-a-better-boyfriend/static/media/womanandrobot2.bb8ce3a9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f6f19ff.js",
+    "static/js/2.87933dd5.chunk.js",
+    "static/css/main.bc100380.chunk.css",
+    "static/js/main.e6db18ec.chunk.js"
+  ]
+}
