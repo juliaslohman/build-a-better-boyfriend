@@ -28,11 +28,6 @@ class Pricing extends React.Component {
                         <br/>
                         <br/>
                         <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
                         throw err;
                     </span>
                 </p>

@@ -1,5 +1,5 @@
 import React from 'react';
-import {Route, BrowserRouter as Router, Switch, Redirect} from 'react-router-dom';
+import {Route, BrowserRouter as Router, Switch, withRouter} from 'react-router-dom';
 import FadeIn from 'react-fade-in';
 import './universalStyle.scss';
 import Ribbon from './ribbon/ribbon.js';
@@ -7,7 +7,7 @@ import Nav from './nav/nav.js';
 import Footer from './footer/footer.js';
 import ScrollToTop from './scrollToTop.js';
 import HomePage from './home/home.js';
-import History from './about/about.js';
+import About from './about/about.js';
 import Pricing from './pricing/pricing.js';
 import Playground from './playground/playground.js';
 
@@ -21,29 +21,19 @@ class App extends React.Component {
 		return (
 			<div>
 				<Ribbon/>
-				<Nav/>
-				<div className="content">
-					<FadeIn>
-						<Router>
-							<ScrollToTop>
-								<Switch>
-									<Route exact path={process.env.PUBLIC_URL + "/"}>
-										<HomePage/>
-									</Route>
-									<Route path={process.env.PUBLIC_URL + "/pricing"}>
-										<Pricing/>
-									</Route>
-									<Route path={process.env.PUBLIC_URL + "/playground"}>
-										<Playground/>
-									</Route>
-									<Route path={process.env.PUBLIC_URL + "/about"}>
-										<History/>
-									</Route>
-								</Switch>
-							</ScrollToTop>
-						</Router>
-					</FadeIn>
-				</div>
+					<Router basename={process.env.PUBLIC_URL}>
+						<ScrollToTop>
+							<Nav/>
+							<FadeIn>
+								<div className="content">
+									<Route exact path={"/"} component={HomePage}/>
+									<Route path={"/playground"} component={Playground}/>
+									<Route path={"/about"} component={About}/>
+									<Route path={"/pricing"} component={Pricing}/>
+								</div>
+							</FadeIn>
+						</ScrollToTop>
+					</Router>
 				<Footer/>
 			</div>
 		);
