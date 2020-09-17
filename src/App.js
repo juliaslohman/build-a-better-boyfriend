@@ -20,20 +20,20 @@ class App extends React.Component {
 
 		return (
 			<div>
-				<Ribbon/>
-					<Router basename={process.env.PUBLIC_URL}>
-						<ScrollToTop>
-							<Nav/>
-							<FadeIn>
-								<div className="content">
-									<Route exact path={"/"} component={HomePage}/>
-									<Route path={"/playground"} component={Playground}/>
-									<Route path={"/about"} component={About}/>
-									<Route path={"/pricing"} component={Pricing}/>
-								</div>
-							</FadeIn>
-						</ScrollToTop>
-					</Router>
+				<Router basename={process.env.PUBLIC_URL}>
+					<ScrollToTop>
+						<Ribbon/>
+						<Nav/>
+						<FadeIn>
+							<div className="content">
+								<Route exact path={"/"} component={HomePage}/>
+								<Route path={"/playground"} component={Playground}/>
+								<Route path={"/about"} component={About}/>
+								<Route path={"/pricing"} component={Pricing}/>
+							</div>
+						</FadeIn>
+					</ScrollToTop>
+				</Router>
 				<Footer/>
 			</div>
 		);

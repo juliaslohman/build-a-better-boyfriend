@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from "react-router-dom";
 import './home.scss';
 
 import wideImage from "./homepageImages/50scoupleWIDE.jpg";
@@ -19,7 +20,7 @@ class HomePage extends React.Component {
                         How we all wish to be in love!
                         And now we all can — with Build A Better Boyfriend from your friends at Replicant Robotics.
                         Leave it up to our service to create an ideal significant other for you.
-                        Personalize their appearance, interests, and mannerisms to your taste in our <a href="/playground">playground</a>, and watch your lifetime partner take shape!
+                        Personalize their appearance, interests, and mannerisms to your taste in our <Link to={"/playground"}>playground</Link>, and watch your lifetime partner take shape!
                     </p><p>
                         Our advanced robots can be used for more than just romantic partners, too.
                         Make a little friend for your little one, set your mom up with someone special, or create a challenging chess partner for yourself. The possibilities are endless!
@@ -55,12 +56,12 @@ class HomePage extends React.Component {
                 <div className="content-block pricing">
                     <h3>Pricing plans</h3>
                     <p>
-                        Can you put a price on love? <a href={process.env.PUBLIC_URL + "/pricing"} className="error-text">Does it really matter#63; Does it really matter#63; Does it really matter#63; Does it really matter#63;  Does it really matter#63;</a>
+                        Can you put a price on love? <Link to={"/pricing"} className="error-text">Does it really matter#63; Does it really matter#63; Does it really matter#63; Does it really matter#63;  Does it really matter#63;</Link>
                     </p>
                 </div>
 
                 <div className="content-block build">
-                    <a href={process.env.PUBLIC_URL + "/playground"}>Start Building a Better Boyfriend!</a>
+                    <Link to={"/playground"}>Start Building a Better Boyfriend!</Link>
                 </div>
 
             </div>
