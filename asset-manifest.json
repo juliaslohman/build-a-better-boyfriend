@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/build-a-better-boyfriend/static/css/main.bc100380.chunk.css",
-    "main.js": "/build-a-better-boyfriend/static/js/main.dacb0ffd.chunk.js",
-    "main.js.map": "/build-a-better-boyfriend/static/js/main.dacb0ffd.chunk.js.map",
+    "main.js": "/build-a-better-boyfriend/static/js/main.c7d8db4e.chunk.js",
+    "main.js.map": "/build-a-better-boyfriend/static/js/main.c7d8db4e.chunk.js.map",
     "runtime-main.js": "/build-a-better-boyfriend/static/js/runtime-main.5f6f19ff.js",
     "runtime-main.js.map": "/build-a-better-boyfriend/static/js/runtime-main.5f6f19ff.js.map",
-    "static/js/2.2ba27240.chunk.js": "/build-a-better-boyfriend/static/js/2.2ba27240.chunk.js",
-    "static/js/2.2ba27240.chunk.js.map": "/build-a-better-boyfriend/static/js/2.2ba27240.chunk.js.map",
+    "static/js/2.0f98c957.chunk.js": "/build-a-better-boyfriend/static/js/2.0f98c957.chunk.js",
+    "static/js/2.0f98c957.chunk.js.map": "/build-a-better-boyfriend/static/js/2.0f98c957.chunk.js.map",
     "index.html": "/build-a-better-boyfriend/index.html",
-    "precache-manifest.8ae106e5dbd49d68a1c8d761f88eb334.js": "/build-a-better-boyfriend/precache-manifest.8ae106e5dbd49d68a1c8d761f88eb334.js",
+    "precache-manifest.95bf93edfab816ba76ced3d8a5600594.js": "/build-a-better-boyfriend/precache-manifest.95bf93edfab816ba76ced3d8a5600594.js",
     "service-worker.js": "/build-a-better-boyfriend/service-worker.js",
     "static/css/main.bc100380.chunk.css.map": "/build-a-better-boyfriend/static/css/main.bc100380.chunk.css.map",
-    "static/js/2.2ba27240.chunk.js.LICENSE.txt": "/build-a-better-boyfriend/static/js/2.2ba27240.chunk.js.LICENSE.txt",
+    "static/js/2.0f98c957.chunk.js.LICENSE.txt": "/build-a-better-boyfriend/static/js/2.0f98c957.chunk.js.LICENSE.txt",
     "static/media/50scoupleWIDE.jpg": "/build-a-better-boyfriend/static/media/50scoupleWIDE.37f97561.jpg",
     "static/media/face1.png": "/build-a-better-boyfriend/static/media/face1.1c5cc3d1.png",
     "static/media/face2.png": "/build-a-better-boyfriend/static/media/face2.feaec3fc.png",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5f6f19ff.js",
-    "static/js/2.2ba27240.chunk.js",
+    "static/js/2.0f98c957.chunk.js",
     "static/css/main.bc100380.chunk.css",
-    "static/js/main.dacb0ffd.chunk.js"
+    "static/js/main.c7d8db4e.chunk.js"
   ]
 }
