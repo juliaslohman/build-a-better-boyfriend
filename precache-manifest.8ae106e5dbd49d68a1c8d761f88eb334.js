@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b4f69a1f26ffd7d9c994168d52f4971",
+    "revision": "227dbec5a6f7a4133b8e3a3ccbad5b05",
     "url": "/build-a-better-boyfriend/index.html"
   },
   {
-    "revision": "37b11fe68a7bb9824419",
+    "revision": "655b07e9cf893ba53730",
     "url": "/build-a-better-boyfriend/static/css/main.bc100380.chunk.css"
   },
   {
-    "revision": "b5b3e2b210918a970c72",
-    "url": "/build-a-better-boyfriend/static/js/2.87933dd5.chunk.js"
+    "revision": "5af751ccda3d69eeb3e9",
+    "url": "/build-a-better-boyfriend/static/js/2.2ba27240.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/build-a-better-boyfriend/static/js/2.87933dd5.chunk.js.LICENSE.txt"
+    "url": "/build-a-better-boyfriend/static/js/2.2ba27240.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "37b11fe68a7bb9824419",
-    "url": "/build-a-better-boyfriend/static/js/main.a1cfc6d9.chunk.js"
+    "revision": "655b07e9cf893ba53730",
+    "url": "/build-a-better-boyfriend/static/js/main.dacb0ffd.chunk.js"
   },
   {
     "revision": "b93a315e7091e2524554",
