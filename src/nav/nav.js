@@ -12,10 +12,10 @@ class Nav extends React.Component {
 			<nav>
                 <ul>
                     <Router>
-                        <li><a href="/">Home</a></li>
-                        <li><a href="/playground" alt="Experiment and build your perfect companion!">Playground</a></li>
-                        <li><a href="/about" alt="does it really matter">About Us</a></li>
-                        <li><a href="/pricing" alt="Can you put a price on love?'">Pricing Plans</a></li>
+                        <li><a href={process.env.PUBLIC_URL + "/"}>Home</a></li>
+                        <li><a href={process.env.PUBLIC_URL + "/playground"} alt="Experiment and build your perfect companion!">Playground</a></li>
+                        <li><a href={process.env.PUBLIC_URL + "/about"} alt="does it really matter">About Us</a></li>
+                        <li><a href={process.env.PUBLIC_URL + "/pricing"} alt="Can you put a price on love?'">Pricing Plans</a></li>
                     </Router>
                 </ul>
             </nav>

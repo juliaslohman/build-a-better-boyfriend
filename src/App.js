@@ -27,16 +27,16 @@ class App extends React.Component {
 						<Router>
 							<ScrollToTop>
 								<Switch>
-									<Route exact path="/">
+									<Route exact path={process.env.PUBLIC_URL + "/"}>
 										<HomePage/>
 									</Route>
-									<Route exact path="/pricing">
+									<Route path={process.env.PUBLIC_URL + "/pricing"}>
 										<Pricing/>
 									</Route>
-									<Route exact path="/playground">
+									<Route path={process.env.PUBLIC_URL + "/playground"}>
 										<Playground/>
 									</Route>
-									<Route exact path="/about">
+									<Route path={process.env.PUBLIC_URL + "/about"}>
 										<History/>
 									</Route>
 								</Switch>

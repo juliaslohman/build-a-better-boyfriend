@@ -52,28 +52,15 @@ class HomePage extends React.Component {
                     </div>
                 </div>
 
-                {/* <div className="content-block learn">
-                    <img src={robotImage} alt="learn traditional Korean martial arts" className="content-image homepage-bg-image learn-image"/>
-                    <div className="overlay"/>
-                    <div className="block-textwrap">
-                        <h3>Our Robots</h3>
-                        <p>
-                            Our humanlike robots are the result of decades of research and development.
-                            They bring together the best of &#9633;rtifical intelligence and animatronic technologies.
-                            They will love, learn, and grow with you, just like any human comp&#9633;nion would&#9633;
-                        </p>
-                    </div>
-                </div> */}
-
                 <div className="content-block pricing">
                     <h3>Pricing plans</h3>
                     <p>
-                        Can you put a price on love? <a href="/pricing" className="error-text">Does it really matter#63; Does it really matter#63; Does it really matter#63; Does it really matter#63;  Does it really matter#63;</a>
+                        Can you put a price on love? <a href={process.env.PUBLIC_URL + "/pricing"} className="error-text">Does it really matter#63; Does it really matter#63; Does it really matter#63; Does it really matter#63;  Does it really matter#63;</a>
                     </p>
                 </div>
 
                 <div className="content-block build">
-                    <a href="/playground">Start Building a Better Boyfriend!</a>
+                    <a href={process.env.PUBLIC_URL + "/playground"}>Start Building a Better Boyfriend!</a>
                 </div>
 
             </div>
