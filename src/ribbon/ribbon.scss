@@ -1,0 +1,29 @@
+@import './../vars.scss';
+
+.ribbon {
+    font-family: $body-font-family;
+    color: $dark;
+    background-color: $secondary-accent;
+    width: 100vw;
+    height: 275px;
+    padding: 35px;
+    display: block;
+    position: relative;
+    margin: auto;
+    box-sizing: border-box;
+    text-align: center;
+
+        svg {
+            height: 100px;
+            color: $accent;
+            display: inline-block;
+        }
+
+        h1 {
+            color: $dark;
+            font-family: $logo-font;
+            font-size: 85px;
+            font-weight: 900;
+            text-align: center;
+        }
+}

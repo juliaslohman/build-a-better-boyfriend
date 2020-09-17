@@ -1,0 +1,21 @@
+@import './../vars.scss';
+
+footer {
+    font-family: $body-font-family;
+    font-size: 12px;
+    color: $dark;
+    background-color: $secondary-accent;
+    width: 100vw;
+    height: 225px;
+    border-top: 5px solid $accent;
+    display: block;
+    bottom: 0px;
+    
+    .footer-text {
+        font-family: $body-font-family;
+        font-size: 12px;
+        text-align: center;
+        line-height: 150%;
+        margin-top: 70px;
+    }
+}
