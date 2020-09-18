@@ -32,6 +32,7 @@ class Playground extends React.Component {
         }
 
         this.faceImages = [
+            faceImage8,
             faceImage1,
             faceImage2,
             errorImage,
@@ -40,8 +41,7 @@ class Playground extends React.Component {
             faceImage5,
             faceImage6,
             errorImage,
-            faceImage7,
-            faceImage8
+            faceImage7
         ];
 
         this.personalityTraits = [

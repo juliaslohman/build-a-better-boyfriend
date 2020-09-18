@@ -58,8 +58,9 @@
     .face-select-wrapper {
         text-align: center;
 
-        .carousel {
-            display: inline-block;
+        .face-select {
+            margin: auto;
+            max-width: 60vw;
         }
     }
 

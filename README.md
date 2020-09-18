@@ -7,11 +7,11 @@ This website was made for an assignment in Scripps College's Advanced Digital Ar
 
 Below are excerpts of the assignment description:
 
-    This project involves researching potential future technologies, and then creating an artifact (in any medium) that tells the story of an imaginative future technology from your world, and the consequences of that technology.
-
-    I ask you to cast yourself in the role of an archaeologist in the year 2020. During a routine dig, you have somehow found a fragment of your artifact from the future.
-
-    For the final presentation, I want you to present your fragment or collection of fragments in a format (ANY format) that helps to decipher what this fragment might tell people now about the future. Think about how your fragment(s) might be analyzed, investigated, or decoded.
+> This project involves researching potential future technologies, and then creating an artifact (in any medium) that tells the story of an imaginative future technology from your world, and the consequences of that technology.
+>
+> I ask you to cast yourself in the role of an archaeologist in the year 2020. During a routine dig, you have somehow found a fragment of your artifact from the future.
+>
+> For the final presentation, I want you to present your fragment or collection of fragments in a format (ANY format) that helps to decipher what this fragment might tell people now about the future. Think about how your fragment(s) might be analyzed, investigated, or decoded.
 
 ## Artist Statement
 Over this summer break, I watched “The Imagineering Story” docuseries on Disney+, about how the Disney parks and rides are created. One of my takeaways was how quickly - over just a few decades - animatronic robotics has progressed. And I know that AI, similarly, has become exponentially more advanced. Seeing these amazing technologies grow prompts speculation about what they could be used for in the future. The expected culmination of these two technologies combined is something like Blade Runner’s ‘replicants,’ a robot that is just short of being human. Most sci-fi media I’ve seen has imagined such a being as a slave, solely used for labor purposes. But if all we wanted was slave labor, why give it intelligence? Furthermore, why so pessimistic about such an amazing technology? Would humans really be so cruel to something that so closely resembles ourselves?
