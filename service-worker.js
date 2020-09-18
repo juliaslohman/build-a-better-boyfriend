@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/build-a-better-boyfriend/precache-manifest.312cf8c0ba7febf75d3f3525f6f8c3bd.js"
+  "/build-a-better-boyfriend/precache-manifest.e8b9594d619228545afb754d1522c22c.js"
 );
 
 self.addEventListener('message', (event) => {
